@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/martin-morales-5095ab172/" alt="Linke" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:martingabrielmorales@yahoo.com" alt="Mail" target="_blank">
-  <img src="https://www.pngkey.com/png/detail/394-3944779_yahoo-mail-logo-png-logo-yahoo-mail-png.png" /></a>
+  <img height="64" src="https://www.pngkey.com/png/detail/394-3944779_yahoo-mail-logo-png-logo-yahoo-mail-png.png" /></a>
 </p>  
 
 
