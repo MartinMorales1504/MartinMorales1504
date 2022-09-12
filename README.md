@@ -13,7 +13,7 @@
 </p>  
 
 
-## Skills
+## Knowledge
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -22,3 +22,17 @@
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Postgresql"/></code>
 
+## Soft Skils 
+![](https://img.shields.io/badge/Teamwork-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Decision%20making-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/leadership-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Problem%20solving-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Communication%20skills-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/commitment-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Emotional%20intelligence-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Time%20management%20and%20organization-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/People%20skills%20and%20management-2D333B?style=for-the-badge)
+
+
+## github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinMorales1504&show_icons=true&theme=tokyonight)
