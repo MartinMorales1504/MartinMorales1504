@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello there 👋 My name is Martin Morales
 
+## About
+* Full Stack Web Developer
+* Business Administration technician
+
+## Skills
+<a href="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" />
 <!--
 **MartinMorales1504/MartinMorales1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
