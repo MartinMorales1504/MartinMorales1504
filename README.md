@@ -3,7 +3,7 @@
 * Business Administration technician
 
 I'm a Business Administration student and entrepeneur who was looking for new challenges, so I started studying web programming in SoyHenry, which has an intensive bootcamp.
-There, I learned some programming languages and created two projects, being the first one individual, and the other in group, learning a both softskills and new tecnologies
+There, I learned programming languages, such as JavaScript, ReactJs, Redux, and many others, and created two projects, the first one individual, and the other one in group, learning both softskills and new tecnologies.
 
 Now I'm going into new languages, like Typescript, mongoDB, etc, while building a new t-shirt business
 
