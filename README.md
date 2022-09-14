@@ -1,8 +1,11 @@
-### Hello there 👋 My name is Martin Morales
-
-## About
+## Hello there 👋 My name is Martin Morales
 * Full Stack Web Developer
 * Business Administration technician
+
+I'm a Business Administration student and entrepeneur who was looking for new challenges, so I started studying web programming in SoyHenry, which has an intensive bootcamp.
+There, I learned some programming languages and created two projects, being the first one individual, and the other in group, learning a both softskills and new tecnologies
+
+Now I'm going into new languages, like Typescript, mongoDB, etc, while building a new t-shirt business
 
 ## 🌎 Contact me: ⤵️
 <p align="left">
